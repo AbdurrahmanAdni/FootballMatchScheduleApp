@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BolaSepak</string>
+    <string name="title_activity_team_detail">TeamDetail</string>
+    <string name="tab_text_1">Upcoming</string>
+    <string name="tab_text_2">Recent</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">ID Team</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Team not saved because it is empty.</string>
+</resources>
